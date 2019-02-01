@@ -6,6 +6,6 @@ public class Eliminate : MonoBehaviour
 {
     public void OnCollisionEnter(Collision collision)
     {
-
+        
     }
 }
